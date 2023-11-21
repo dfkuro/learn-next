@@ -4,6 +4,6 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-**WIP
+# WIP
 
-[Dashboard on vercel](nextjs-dashboard-ten-bice.vercel.app)
+[Dashboard on vercel](https://nextjs-dashboard-ten-bice.vercel.app)
